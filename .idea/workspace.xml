@@ -160,12 +160,6 @@
               <item name="myWebsite" type="462c0819:PsiDirectoryNode" />
               <item name="projectname" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="projectname" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -300,7 +294,7 @@
       <workItem from="1525963846501" duration="484000" />
       <workItem from="1525964421170" duration="661000" />
       <workItem from="1526028834111" duration="10045000" />
-      <workItem from="1526065518097" duration="16550000" />
+      <workItem from="1526065518097" duration="16833000" />
     </task>
     <task id="LOCAL-00001" summary="website">
       <created>1526148784928</created>
@@ -309,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526148784929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="website pages">
+      <created>1526149323941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526149323941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27740000" />
+    <option name="totallyTimeSpent" value="28023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -357,7 +358,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="website" />
-    <option name="LAST_COMMIT_MESSAGE" value="website" />
+    <MESSAGE value="website pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="website pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
